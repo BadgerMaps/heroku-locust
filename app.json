@@ -29,12 +29,10 @@
   },
   "formation": {
     "web": {
-      "quantity": 1,
-      "size": "private-s"
+      "quantity": 1
     },
     "worker": {
-      "quantity": 1,
-      "size": "private-m"
+      "quantity": 1
     }
   },
   "image": "heroku/python"
